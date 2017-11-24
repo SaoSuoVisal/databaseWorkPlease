@@ -78,7 +78,7 @@ app.get('/update/booking', function(req, res){
       db.close();
     });
   });
-  // res.send(objOne);
+  res.send(objOne);
 });
 
 
