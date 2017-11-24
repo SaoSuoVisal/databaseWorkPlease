@@ -1,0 +1,26 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaoSuoVisal/databaseWorkPlease.git"
+  },
+  "engines": {
+    "node": "8.1.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.3",
+    "mongodb": "^2.2.33"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaoSuoVisal/databaseWorkPlease/issues"
+  },
+  "homepage": "https://github.com/SaoSuoVisal/databaseWorkPlease#readme"
+}
